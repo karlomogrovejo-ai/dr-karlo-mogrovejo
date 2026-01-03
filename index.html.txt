@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Dr. Karlo Mogrovejo R. | Ortopedia y Traumatología</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        body {
+            font-family: Arial, Helvetica, sans-serif;
+            margin: 0;
+            background-color: #f5f7fa;
+            color: #333;
+        }
+        header {
+            background-color: #0a4c7d;
+            color: white;
+            padding: 25px;
+            text-align: center;
+        }
+        section {
+            padding: 25px;
+            max-width: 900px;
+            margin: auto;
+            background: white;
+            margin-top: 20px;
+            border-radius: 8px;
+        }
+        h2 {
+            color: #0a4c7d;
+        }
+        ul {
+            line-height: 1.8;
+        }
+        .btn {
+            display: inline-block;
+            background-color: #25D366;
+            color: white;
+            padding: 15px 25px;
+            text-decoration: none;
+            border-radius: 6px;
+            font-size: 18px;
+            margin-top: 15px;
+        }
+        footer {
+            text-align: center;
+            padding: 15px;
+            background-color: #0a4c7d;
+            color: white;
+            margin-top: 30px;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Dr. Karlo Mogrovejo R.</h1>
+    <p>
+        Especialista en Ortopedia y Traumatología<br>
+        Subespecialista en Cirugía de Cadera y Pelvis
+    </p>
+</header>
+
+<section>
+    <h2>Sobre mí</h2>
+    <p>
+        Soy el <strong>Dr. Karlo Mogrovejo R.</strong>, médico especialista en
+        <strong>Ortopedia y Traumatología</strong>, con subespecialidad en
+        <strong>Cirugía de Cadera y Pelvis</strong>, realizada en
+        <strong>Santiago de Chile</strong> en la <strong>Clínica Alemana</strong>.
+    </p>
+    <p>
+        Mi práctica médica se enfoca en el tratamiento integral de patologías de
+        cadera y pelvis, utilizando técnicas modernas y basadas en evidencia científica.
+    </p>
+</section>
+
+<section>
+    <h2>Servicios</h2>
+    <ul>
+        <li>Resolución de fracturas de pelvis y acetábulo</li>
+        <li>Reemplazos articulares de cadera (simples y complejos)</li>
+        <li>Tratamiento de fracturas periprotésicas</li>
+        <li>Artroscopía de cadera</li>
+        <li>Manejo de fracturas de cadera y pelvis</li>
+        <li>Cirugía de preservación de cadera</li>
+    </ul>
+</section>
+
+<section>
+    <h2>Consulta</h2>
+    <p><strong>Horario de atención:</strong><br>
+       Todos los días de 16h00 a 18h00</p>
+
+    <p><strong>Dirección:</strong><br>
+       Torre Médica La Carolina 1<br>
+       Segundo piso – Consultorio 202</p>
+
+    <a class="btn"
+       href="https://wa.me/593992820260?text=Hola%20Dr.%20Karlo%20Mogrovejo,%20quisiera%20agendar%20una%20cita."
+       target="_blank">
+       Agendar cita por WhatsApp
+    </a>
+</section>
+
+<footer>
+    <p>© Dr. Karlo Mogrovejo R. – Ortopedia y Traumatología</p>
+</footer>
+
+</body>
+</html>
